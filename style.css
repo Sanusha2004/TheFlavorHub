@@ -1,0 +1,27 @@
+
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #fffaf5;
+  margin: 0;
+  padding: 0;
+}
+header {
+  background: #ff7043;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+#searchBar {
+  padding: 10px;
+  margin-top: 10px;
+  width: 50%;
+}
+main {
+  padding: 20px;
+}
+footer {
+  background: #eee;
+  padding: 10px;
+  text-align: center;
+  margin-top: 40px;
+}
